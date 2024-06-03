@@ -1,0 +1,7 @@
+.optional-inputs-toggle {
+    cursor: pointer;
+  }
+  
+  .optional-inputs-toggle:hover {
+    text-decoration: underline;
+  }
